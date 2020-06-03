@@ -79,8 +79,9 @@ body{
    overflow: hidden;
  }
  
- .text-wrapper .text-inner {
+ .text-wrapper .text-inner button{
    position: relative;
+   margin-bottom: 100px;
  }
  
  /*main container*/
